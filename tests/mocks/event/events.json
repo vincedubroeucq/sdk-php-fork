@@ -1,0 +1,1366 @@
+{
+  "success": true,
+  "sort": "timingsWithFeatured.asc",
+  "total": 1311,
+  "after": [
+    0,
+    1636475400000,
+    1636477200000,
+    73145517
+  ],
+  "events": [
+    {
+      "image": {
+        "filename": "5e10c82065674d1d8c2061ae30ce7ec7.base.image.jpg",
+        "size": {
+          "width": 700,
+          "height": 511
+        },
+        "variants": [
+          {
+            "filename": "5e10c82065674d1d8c2061ae30ce7ec7.full.image.jpg",
+            "size": {
+              "width": 1053,
+              "height": 768
+            },
+            "type": "full"
+          },
+          {
+            "filename": "5e10c82065674d1d8c2061ae30ce7ec7.thumb.image.jpg",
+            "size": {
+              "width": 200,
+              "height": 200
+            },
+            "type": "thumbnail"
+          }
+        ],
+        "base": "https://cibul.s3.amazonaws.com/"
+      },
+      "featured": false,
+      "attendanceMode": 1,
+      "keywords": {},
+      "dateRange": {
+        "ar": "١٦ أكتوبر - ١٩ نوفمبر",
+        "de": "16 Oktober - 19 November",
+        "en": "16 October - 19 November",
+        "fr": "16 octobre - 19 novembre",
+        "es": "16 October - 19 November"
+      },
+      "imageCredits": "MNMU",
+      "originAgenda": {
+        "uid": 73792015,
+        "image": "user_centre-culturel-de-serbie-kulturni-centar-srbije-3_79.jpg",
+        "title": "Centre culturel de Serbie  Kulturni centar Srbije"
+      },
+      "title": {
+        "fr": "Sava Sekulić – Le pouvoir de la vision"
+      },
+      "onlineAccessLink": null,
+      "uid": 74020612,
+      "location": {
+        "address": "123 rue Saint Martin, 75004 Paris",
+        "latitude": 48.860868,
+        "name": "Centre culturel de Serbie",
+        "longitude": 2.350839
+      },
+      "slug": "sava-sekulic-le-pouvoir-de-la-vision",
+      "status": 1,
+      "lastTiming": {
+        "begin": "2021-11-19T11:30:00+01:00",
+        "end": "2021-11-19T19:30:00+01:00"
+      },
+      "nextTiming": {
+        "begin": "2021-11-09T11:30:00+01:00",
+        "end": "2021-11-09T19:30:00+01:00"
+      }
+    },
+    {
+      "image": {
+        "filename": "e8f516dd3ac14e03a622714d45730efd.base.image.jpg",
+        "size": {
+          "width": 700,
+          "height": 394
+        },
+        "variants": [
+          {
+            "filename": "e8f516dd3ac14e03a622714d45730efd.full.image.jpg",
+            "size": {
+              "width": 1280,
+              "height": 720
+            },
+            "type": "full"
+          },
+          {
+            "filename": "e8f516dd3ac14e03a622714d45730efd.thumb.image.jpg",
+            "size": {
+              "width": 200,
+              "height": 200
+            },
+            "type": "thumbnail"
+          }
+        ],
+        "base": "https://cibul.s3.amazonaws.com/"
+      },
+      "featured": false,
+      "attendanceMode": 1,
+      "keywords": {},
+      "dateRange": {
+        "ar": "١٨ أكتوبر - ١٩ نوفمبر",
+        "de": "18 Oktober - 19 November",
+        "en": "18 October - 19 November",
+        "fr": "18 octobre - 19 novembre",
+        "es": "18 October - 19 November"
+      },
+      "originAgenda": {
+        "uid": 86184123,
+        "image": "agenda86184123.jpg",
+        "title": "Université Paris-Saclay"
+      },
+      "title": {
+        "fr": "Nouveau lieu de restauration CROUS sur le Campus d’Orsay-Vallée"
+      },
+      "onlineAccessLink": null,
+      "uid": 74039849,
+      "location": {
+        "address": "versailles",
+        "latitude": 48.80354,
+        "name": "Résidence Les Rives de l'Yvette",
+        "longitude": 2.126689
+      },
+      "slug": "nouveau-lieu-de-restauration-crous-sur-le-campus-dorsay-vallee",
+      "status": 1,
+      "lastTiming": {
+        "begin": "2021-11-19T11:30:00+01:00",
+        "end": "2021-11-19T14:00:00+01:00"
+      },
+      "nextTiming": {
+        "begin": "2021-11-09T11:30:00+01:00",
+        "end": "2021-11-09T14:00:00+01:00"
+      }
+    },
+    {
+      "image": {
+        "filename": "0d471694763645adb61491605cb6bae4.base.image.jpg",
+        "size": {
+          "width": 700,
+          "height": 827
+        },
+        "variants": [
+          {
+            "filename": "0d471694763645adb61491605cb6bae4.full.image.jpg",
+            "size": {
+              "width": 639,
+              "height": 755
+            },
+            "type": "full"
+          },
+          {
+            "filename": "0d471694763645adb61491605cb6bae4.thumb.image.jpg",
+            "size": {
+              "width": 200,
+              "height": 200
+            },
+            "type": "thumbnail"
+          }
+        ],
+        "base": "https://cibul.s3.amazonaws.com/"
+      },
+      "featured": false,
+      "attendanceMode": 1,
+      "keywords": {},
+      "dateRange": {
+        "ar": "٥ - ٢١ نوفمبر",
+        "de": "5 - 21 November",
+        "en": "5 - 21 November",
+        "fr": "5 - 21 novembre",
+        "es": "5 - 21 November"
+      },
+      "originAgenda": {
+        "uid": 28050806,
+        "image": "agenda28050806.jpg?__ts=1626035132478",
+        "title": "QueFaire"
+      },
+      "title": {
+        "fr": "Utopies  Latino-américaines"
+      },
+      "onlineAccessLink": null,
+      "uid": 64735062,
+      "location": {
+        "address": "35 rue Debelleyme",
+        "latitude": 48.862508,
+        "name": "Galerie Bahia Utopica",
+        "longitude": 2.364049
+      },
+      "slug": "utopies-latino-americaines",
+      "status": 1,
+      "lastTiming": {
+        "begin": "2021-11-21T12:00:00+01:00",
+        "end": "2021-11-21T19:00:00+01:00"
+      },
+      "nextTiming": {
+        "begin": "2021-11-09T12:00:00+01:00",
+        "end": "2021-11-09T19:00:00+01:00"
+      }
+    },
+    {
+      "image": {
+        "filename": "be465f0e33d74975a2898b8f548b5903.base.image.jpg",
+        "size": {
+          "width": 700,
+          "height": 146
+        },
+        "variants": [
+          {
+            "filename": "be465f0e33d74975a2898b8f548b5903.full.image.jpg",
+            "size": {
+              "width": 1920,
+              "height": 400
+            },
+            "type": "full"
+          },
+          {
+            "filename": "be465f0e33d74975a2898b8f548b5903.thumb.image.jpg",
+            "size": {
+              "width": 200,
+              "height": 200
+            },
+            "type": "thumbnail"
+          }
+        ],
+        "base": "https://cibul.s3.amazonaws.com/"
+      },
+      "featured": false,
+      "attendanceMode": 1,
+      "keywords": {
+        "en": [
+          "eugloh",
+          "inclusion",
+          "diversity",
+          "conference",
+          "series"
+        ],
+        "fr": [
+          "eugloh",
+          "inclusion",
+          "diversité",
+          "conférences",
+          "série"
+        ]
+      },
+      "dateRange": {
+        "ar": "الثلاثاء ٩ نوفمبر, 12:00",
+        "de": "Dienstag 9 November, 12:00",
+        "en": "Tuesday 9 November, 12:00",
+        "fr": "Mardi 9 novembre, 12h00",
+        "es": "Tuesday 9 November, 12:00"
+      },
+      "imageCredits": "DR",
+      "originAgenda": {
+        "uid": 86184123,
+        "image": "agenda86184123.jpg",
+        "title": "Université Paris-Saclay"
+      },
+      "title": {
+        "en": "Diversity & Inclusion E-Conferences",
+        "fr": "Diversity & Inclusion E-Conferences"
+      },
+      "onlineAccessLink": null,
+      "uid": 37841488,
+      "location": {
+        "address": "En ligne / online",
+        "latitude": 48.856697,
+        "name": "En ligne / online",
+        "longitude": 2.351462
+      },
+      "slug": "diversity-and-inclusion-e-conferences",
+      "status": 1,
+      "lastTiming": {
+        "begin": "2021-11-09T12:00:00+01:00",
+        "end": "2021-11-09T13:00:00+01:00"
+      },
+      "nextTiming": {
+        "begin": "2021-11-09T12:00:00+01:00",
+        "end": "2021-11-09T13:00:00+01:00"
+      }
+    },
+    {
+      "image": {
+        "filename": "7eabe6cb0dfa48f7a3cfe233495304d7.base.image.jpg",
+        "size": {
+          "width": 700,
+          "height": 512
+        },
+        "variants": [
+          {
+            "filename": "7eabe6cb0dfa48f7a3cfe233495304d7.full.image.jpg",
+            "size": {
+              "width": 4843,
+              "height": 3543
+            },
+            "type": "full"
+          },
+          {
+            "filename": "7eabe6cb0dfa48f7a3cfe233495304d7.thumb.image.jpg",
+            "size": {
+              "width": 200,
+              "height": 200
+            },
+            "type": "thumbnail"
+          }
+        ],
+        "base": "https://cibul.s3.amazonaws.com/"
+      },
+      "featured": false,
+      "attendanceMode": 1,
+      "keywords": {},
+      "dateRange": {
+        "ar": "١١ سبتمبر - ١٤ نوفمبر",
+        "de": "11 September - 14 November",
+        "en": "11 September - 14 November",
+        "fr": "11 septembre - 14 novembre",
+        "es": "11 September - 14 November"
+      },
+      "imageCredits": "© Claudia & Julia Müller, Digital Desire, 2019",
+      "originAgenda": {
+        "uid": 61665301,
+        "image": "agenda61665301.jpg",
+        "title": "FICEP - Forum des Instituts Culturels Étrangers à Paris"
+      },
+      "title": {
+        "fr": "Claudia & Julia Müller, Une brève histoire de baskets sales"
+      },
+      "onlineAccessLink": null,
+      "uid": 80002097,
+      "location": {
+        "address": "32-38 rue des Francs-Bourgeois",
+        "latitude": 48.8588,
+        "name": "Centre culturel suisse",
+        "longitude": 2.359694
+      },
+      "slug": "claudia-and-julia-muller-une-breve-histoire-de-baskets-sales",
+      "status": 1,
+      "lastTiming": {
+        "begin": "2021-11-14T13:00:00+01:00",
+        "end": "2021-11-14T19:00:00+01:00"
+      },
+      "nextTiming": {
+        "begin": "2021-11-09T13:00:00+01:00",
+        "end": "2021-11-09T19:00:00+01:00"
+      }
+    },
+    {
+      "image": {
+        "filename": "6f21fc191ce5401688219dce9b5e90fc.base.image.jpg",
+        "size": {
+          "width": 700,
+          "height": 462
+        },
+        "variants": [
+          {
+            "filename": "6f21fc191ce5401688219dce9b5e90fc.full.image.jpg",
+            "size": {
+              "width": 3670,
+              "height": 2423
+            },
+            "type": "full"
+          },
+          {
+            "filename": "6f21fc191ce5401688219dce9b5e90fc.thumb.image.jpg",
+            "size": {
+              "width": 200,
+              "height": 200
+            },
+            "type": "thumbnail"
+          }
+        ],
+        "base": "https://cibul.s3.amazonaws.com/"
+      },
+      "featured": false,
+      "attendanceMode": 1,
+      "keywords": {},
+      "dateRange": {
+        "ar": "١١ سبتمبر - ١٤ نوفمبر",
+        "de": "11 September - 14 November",
+        "en": "11 September - 14 November",
+        "fr": "11 septembre - 14 novembre",
+        "es": "11 September - 14 November"
+      },
+      "imageCredits": "Denise Bertschi, STATE FICTION, video stills, 2021 (© Bibliothek am Guisanplatz, Bern/Switzerland)",
+      "originAgenda": {
+        "uid": 61665301,
+        "image": "agenda61665301.jpg",
+        "title": "FICEP - Forum des Instituts Culturels Étrangers à Paris"
+      },
+      "title": {
+        "fr": "Denise Bertschi, Oasis of Peace. Neutral Only On The Outside"
+      },
+      "onlineAccessLink": null,
+      "uid": 96887297,
+      "location": {
+        "address": "32-38 rue des Francs-Bourgeois",
+        "latitude": 48.8588,
+        "name": "Centre culturel suisse",
+        "longitude": 2.359694
+      },
+      "slug": "denise-bertschi-oasis-of-peace-neutral-only-on-the-outside",
+      "status": 1,
+      "lastTiming": {
+        "begin": "2021-11-14T13:00:00+01:00",
+        "end": "2021-11-14T19:00:00+01:00"
+      },
+      "nextTiming": {
+        "begin": "2021-11-09T13:00:00+01:00",
+        "end": "2021-11-09T19:00:00+01:00"
+      }
+    },
+    {
+      "image": {
+        "filename": "2746ee9ccfbf47f4be914ed8ce6099a7.base.image.jpg",
+        "size": {
+          "width": 700,
+          "height": 428
+        },
+        "variants": [
+          {
+            "filename": "2746ee9ccfbf47f4be914ed8ce6099a7.full.image.jpg",
+            "size": {
+              "width": 1118,
+              "height": 683
+            },
+            "type": "full"
+          },
+          {
+            "filename": "2746ee9ccfbf47f4be914ed8ce6099a7.thumb.image.jpg",
+            "size": {
+              "width": 200,
+              "height": 200
+            },
+            "type": "thumbnail"
+          }
+        ],
+        "base": "https://cibul.s3.amazonaws.com/"
+      },
+      "featured": false,
+      "attendanceMode": 1,
+      "keywords": {},
+      "dateRange": {
+        "ar": "٢٣ أكتوبر - ١٤ نوفمبر",
+        "de": "23 Oktober - 14 November",
+        "en": "23 October - 14 November",
+        "fr": "23 octobre - 14 novembre",
+        "es": "23 October - 14 November"
+      },
+      "originAgenda": {
+        "uid": 16624806,
+        "image": "review_mediatheques-issy_00.jpg",
+        "title": "Les Médiathèques d'Issy-les-Moulineaux"
+      },
+      "title": {
+        "fr": "Seigneurs des Anneaux"
+      },
+      "onlineAccessLink": null,
+      "uid": 54551294,
+      "location": {
+        "address": "2 rue du Clos-Munier, 92130 Issy-les-Moulineaux",
+        "latitude": 48.822908,
+        "name": "Médiathèque des Chartreux",
+        "longitude": 2.254294
+      },
+      "slug": "seigneurs-des-anneaux",
+      "status": 1,
+      "lastTiming": {
+        "begin": "2021-11-14T10:30:00+01:00",
+        "end": "2021-11-14T18:00:00+01:00"
+      },
+      "nextTiming": {
+        "begin": "2021-11-09T13:00:00+01:00",
+        "end": "2021-11-09T19:00:00+01:00"
+      }
+    },
+    {
+      "image": {
+        "filename": "500dc04214f14b0d81941b22d09c7c38.base.image.jpg",
+        "size": {
+          "width": 700,
+          "height": 394
+        },
+        "variants": [
+          {
+            "filename": "500dc04214f14b0d81941b22d09c7c38.full.image.jpg",
+            "size": {
+              "width": 1280,
+              "height": 720
+            },
+            "type": "full"
+          },
+          {
+            "filename": "500dc04214f14b0d81941b22d09c7c38.thumb.image.jpg",
+            "size": {
+              "width": 200,
+              "height": 200
+            },
+            "type": "thumbnail"
+          }
+        ],
+        "base": "https://cibul.s3.amazonaws.com/"
+      },
+      "featured": false,
+      "attendanceMode": 1,
+      "keywords": {
+        "fr": [
+          "sécurité à vélo"
+        ]
+      },
+      "dateRange": {
+        "ar": "الثلاثاء ٩ نوفمبر, 13:00",
+        "de": "Dienstag 9 November, 13:00",
+        "en": "Tuesday 9 November, 13:00",
+        "fr": "Mardi 9 novembre, 13h00",
+        "es": "Tuesday 9 November, 13:00"
+      },
+      "imageCredits": "FUB",
+      "originAgenda": {
+        "uid": 16904082,
+        "image": "agenda16904082.jpg?__ts=1610446044767",
+        "title": "Mieux se Déplacer à Bicyclette"
+      },
+      "title": {
+        "fr": "Webinaire \"Cyclistes Brillez\""
+      },
+      "onlineAccessLink": null,
+      "uid": 7467511,
+      "location": {
+        "address": "Paris",
+        "latitude": 48.85889,
+        "name": "Zoom",
+        "longitude": 2.320041
+      },
+      "slug": "webinaire-cyclistes-brillez",
+      "status": 1,
+      "lastTiming": {
+        "begin": "2021-11-09T13:00:00+01:00",
+        "end": "2021-11-09T13:30:00+01:00"
+      },
+      "nextTiming": {
+        "begin": "2021-11-09T13:00:00+01:00",
+        "end": "2021-11-09T13:30:00+01:00"
+      }
+    },
+    {
+      "image": {
+        "filename": "c93ba4e1c3a548b190223af9dbbda935.base.image.jpg",
+        "size": {
+          "width": 700,
+          "height": 700
+        },
+        "variants": [
+          {
+            "filename": "c93ba4e1c3a548b190223af9dbbda935.full.image.jpg",
+            "size": {
+              "width": 1366,
+              "height": 1366
+            },
+            "type": "full"
+          },
+          {
+            "filename": "c93ba4e1c3a548b190223af9dbbda935.thumb.image.jpg",
+            "size": {
+              "width": 200,
+              "height": 200
+            },
+            "type": "thumbnail"
+          }
+        ],
+        "base": "https://cibul.s3.amazonaws.com/"
+      },
+      "featured": false,
+      "attendanceMode": 1,
+      "keywords": {},
+      "dateRange": {
+        "ar": "٨ و ٩ نوفمبر ",
+        "de": "8 und 9 November",
+        "en": "8 and 9 November",
+        "fr": "8 et 9 novembre",
+        "es": "8 and 9 November"
+      },
+      "originAgenda": {
+        "uid": 36718945,
+        "image": "agenda36718945.jpg",
+        "title": "SQY Eco"
+      },
+      "title": {
+        "fr": "Construire son prévisionnel financier"
+      },
+      "onlineAccessLink": null,
+      "uid": 8848836,
+      "location": {
+        "address": "3 avenue du centre, Guyancourt",
+        "latitude": 48.787923,
+        "name": "SQY Cub",
+        "longitude": 2.050254
+      },
+      "slug": "construire-son-previsionnel-financier-3522270",
+      "status": 1,
+      "lastTiming": {
+        "begin": "2021-11-09T13:30:00+01:00",
+        "end": "2021-11-09T17:00:00+01:00"
+      },
+      "nextTiming": {
+        "begin": "2021-11-09T13:30:00+01:00",
+        "end": "2021-11-09T17:00:00+01:00"
+      }
+    },
+    {
+      "image": {
+        "filename": "5de2068382454a4da74cc62afda04905.base.image.jpg",
+        "size": {
+          "width": 700,
+          "height": 466
+        },
+        "variants": [
+          {
+            "filename": "5de2068382454a4da74cc62afda04905.full.image.jpg",
+            "size": {
+              "width": 676,
+              "height": 450
+            },
+            "type": "full"
+          },
+          {
+            "filename": "5de2068382454a4da74cc62afda04905.thumb.image.jpg",
+            "size": {
+              "width": 200,
+              "height": 200
+            },
+            "type": "thumbnail"
+          }
+        ],
+        "base": "https://cibul.s3.amazonaws.com/"
+      },
+      "featured": false,
+      "attendanceMode": 1,
+      "keywords": {
+        "fr": [
+          "exposition",
+          "patrimoine",
+          "jeux d'enfants"
+        ]
+      },
+      "dateRange": {
+        "ar": "٨ سبتمبر ٢٠٢١ - ١٤ يناير ٢٠٢٢",
+        "de": "8 September 2021 - 14 Januar 2022",
+        "en": "8 September 2021 - 14 January 2022",
+        "fr": "8 septembre 2021 - 14 janvier 2022",
+        "es": "8 September 2021 - 14 January 2022"
+      },
+      "imageCredits": "Musée de la ville SQY / SOPLO / Fds photographiques M et JM Simonnet, A et B Vuarnesson, JF Grunfeld, ADY EPASQY, ADAGP 2021",
+      "originAgenda": {
+        "uid": 65650828,
+        "image": "agenda65650828.jpg",
+        "title": "Agenda culturel SQY"
+      },
+      "title": {
+        "fr": "Exposition \"Viens jouer dehors ! 1968-1978 : la nouvelle ère des jeux\""
+      },
+      "onlineAccessLink": null,
+      "uid": 58136200,
+      "location": {
+        "address": "Quai François Truffaut, 78180 Montigny-le-Bretonneux",
+        "latitude": 48.78288,
+        "name": "Musée de la ville de Saint-Quentin-en-Yvelines",
+        "longitude": 2.041633
+      },
+      "slug": "exposition-viens-jouer-dehors-1968-1978-la-nouvelle-ere-des-jeux",
+      "status": 1,
+      "lastTiming": {
+        "begin": "2022-01-14T14:00:00+01:00",
+        "end": "2022-01-14T18:00:00+01:00"
+      },
+      "nextTiming": {
+        "begin": "2021-11-09T14:00:00+01:00",
+        "end": "2021-11-09T18:00:00+01:00"
+      }
+    },
+    {
+      "image": {
+        "filename": "be4a5dcb78114668b0e1cd95563f4031.base.image.jpg",
+        "size": {
+          "width": 700,
+          "height": 528
+        },
+        "variants": [
+          {
+            "filename": "be4a5dcb78114668b0e1cd95563f4031.full.image.jpg",
+            "size": {
+              "width": 1200,
+              "height": 905
+            },
+            "type": "full"
+          },
+          {
+            "filename": "be4a5dcb78114668b0e1cd95563f4031.thumb.image.jpg",
+            "size": {
+              "width": 200,
+              "height": 200
+            },
+            "type": "thumbnail"
+          }
+        ],
+        "base": "https://cibul.s3.amazonaws.com/"
+      },
+      "featured": false,
+      "attendanceMode": 1,
+      "keywords": {
+        "fr": [
+          "CLAVIM",
+          "Le Temps des Cerises",
+          "Droits de l'Enfant"
+        ]
+      },
+      "dateRange": {
+        "ar": "٢ نوفمبر - ١٨ ديسمبر",
+        "de": "2 November - 18 Dezember",
+        "en": "2 November - 18 December",
+        "fr": "2 novembre - 18 décembre",
+        "es": "2 November - 18 December"
+      },
+      "imageCredits": "UCHIKOMI!! © 2014 YU MURAOKA (AKITASHOTEN)",
+      "originAgenda": {
+        "uid": 37677191,
+        "image": "agenda37677191.jpg",
+        "title": "Le Temps des Cerises"
+      },
+      "title": {
+        "fr": "Exposition : Manga & sports, la culture de l'effort !"
+      },
+      "onlineAccessLink": null,
+      "uid": 21486247,
+      "location": {
+        "address": "90-98, promenade du Verger, Issy-les-Moulineaux, 92130, Ile-de-France",
+        "latitude": 48.816278,
+        "name": "Le Temps des Cerises",
+        "longitude": 2.267067
+      },
+      "slug": "exposition-manga-and-sports-la-culture-de-leffort",
+      "status": 1,
+      "lastTiming": {
+        "begin": "2021-12-18T10:00:00+01:00",
+        "end": "2021-12-18T19:00:00+01:00"
+      },
+      "nextTiming": {
+        "begin": "2021-11-09T14:00:00+01:00",
+        "end": "2021-11-09T19:00:00+01:00"
+      }
+    },
+    {
+      "image": {
+        "filename": "acea2f9af51540349e24ded6b8f9f186.base.image.jpg",
+        "size": {
+          "width": 700,
+          "height": 525
+        },
+        "variants": [
+          {
+            "filename": "acea2f9af51540349e24ded6b8f9f186.full.image.jpg",
+            "size": {
+              "width": 1920,
+              "height": 1440
+            },
+            "type": "full"
+          },
+          {
+            "filename": "acea2f9af51540349e24ded6b8f9f186.thumb.image.jpg",
+            "size": {
+              "width": 200,
+              "height": 200
+            },
+            "type": "thumbnail"
+          }
+        ],
+        "base": "https://cibul.s3.amazonaws.com/"
+      },
+      "featured": false,
+      "attendanceMode": 1,
+      "keywords": {},
+      "dateRange": {
+        "ar": "١٤ أكتوبر - ١٠ ديسمبر",
+        "de": "14 Oktober - 10 Dezember",
+        "en": "14 October - 10 December",
+        "fr": "14 octobre - 10 décembre",
+        "es": "14 October - 10 December"
+      },
+      "originAgenda": {
+        "uid": 20685588,
+        "image": "agenda20685588.jpg",
+        "title": "Cité internationale des arts"
+      },
+      "title": {
+        "fr": "EXPOSITION / EUROPA ENTERPRISE"
+      },
+      "onlineAccessLink": null,
+      "uid": 75010924,
+      "location": {
+        "address": "18, rue de l'Hôtel de ville, 75004",
+        "latitude": 48.853958,
+        "name": "Cité internationale des arts",
+        "longitude": 2.357214
+      },
+      "slug": "exposition-europa-enterprise",
+      "status": 1,
+      "lastTiming": {
+        "begin": "2021-12-10T14:00:00+01:00",
+        "end": "2021-12-10T19:00:00+01:00"
+      },
+      "nextTiming": {
+        "begin": "2021-11-09T14:00:00+01:00",
+        "end": "2021-11-09T19:00:00+01:00"
+      }
+    },
+    {
+      "image": {
+        "filename": "efdd693cabd049049ec9c0b5bf5c6a67.base.image.jpg",
+        "size": {
+          "width": 700,
+          "height": 395
+        },
+        "variants": [
+          {
+            "filename": "efdd693cabd049049ec9c0b5bf5c6a67.full.image.jpg",
+            "size": {
+              "width": 1200,
+              "height": 677
+            },
+            "type": "full"
+          },
+          {
+            "filename": "efdd693cabd049049ec9c0b5bf5c6a67.thumb.image.jpg",
+            "size": {
+              "width": 200,
+              "height": 200
+            },
+            "type": "thumbnail"
+          }
+        ],
+        "base": "https://cibul.s3.amazonaws.com/"
+      },
+      "featured": false,
+      "attendanceMode": 1,
+      "keywords": {
+        "fr": [
+          "CLAVIM",
+          "Espace Jeunes Anne Frank",
+          "Droits de l'enfant"
+        ]
+      },
+      "dateRange": {
+        "ar": "٨ - ٣٠ نوفمبر",
+        "de": "8 - 30 November",
+        "en": "8 - 30 November",
+        "fr": "8 - 30 novembre",
+        "es": "8 - 30 November"
+      },
+      "imageCredits": "© casden",
+      "originAgenda": {
+        "uid": 41998231,
+        "image": "agenda41998231.jpg?__ts=1627286222189",
+        "title": "Espace Jeunes Anne Frank"
+      },
+      "title": {
+        "fr": "Exposition : Histoire, Sport & Citoyenneté"
+      },
+      "onlineAccessLink": null,
+      "uid": 15871277,
+      "location": {
+        "address": "15 rue Diderot, 92130 Issy-les-Moulineaux",
+        "latitude": 48.825668,
+        "name": "Espace Jeunes Anne Frank",
+        "longitude": 2.271854
+      },
+      "slug": "exposition-histoire-sport-and-citoyennete",
+      "status": 1,
+      "lastTiming": {
+        "begin": "2021-11-30T10:30:00+01:00",
+        "end": "2021-11-30T12:30:00+01:00"
+      },
+      "nextTiming": {
+        "begin": "2021-11-09T10:30:00+01:00",
+        "end": "2021-11-09T12:30:00+01:00"
+      }
+    },
+    {
+      "image": {
+        "filename": "a5408aac377444cba8a96b03d558940a.base.image.jpg",
+        "size": {
+          "width": 700,
+          "height": 465
+        },
+        "variants": [
+          {
+            "filename": "a5408aac377444cba8a96b03d558940a.full.image.jpg",
+            "size": {
+              "width": 537,
+              "height": 357
+            },
+            "type": "full"
+          },
+          {
+            "filename": "a5408aac377444cba8a96b03d558940a.thumb.image.jpg",
+            "size": {
+              "width": 200,
+              "height": 200
+            },
+            "type": "thumbnail"
+          }
+        ],
+        "base": "https://cibul.s3.amazonaws.com/"
+      },
+      "featured": false,
+      "attendanceMode": 1,
+      "keywords": {
+        "fr": [
+          "réalité virtuelle"
+        ]
+      },
+      "dateRange": {
+        "ar": "٢٨ أكتوبر - ١٣ نوفمبر",
+        "de": "28 Oktober - 13 November",
+        "en": "28 October - 13 November",
+        "fr": "28 octobre - 13 novembre",
+        "es": "28 October - 13 November"
+      },
+      "originAgenda": {
+        "uid": 38206640,
+        "image": "review_le-cube_161_00.jpg",
+        "title": "Le Cube"
+      },
+      "title": {
+        "fr": "Galaxy Network - exposition de réalités virtuelles"
+      },
+      "onlineAccessLink": null,
+      "uid": 64854017,
+      "location": {
+        "address": "20 cours Saint-Vincent, 92130 Issy-les-Moulineaux",
+        "latitude": 48.819968,
+        "name": "Le Cube",
+        "longitude": 2.253174
+      },
+      "slug": "galaxy-network-exposition-de-realites-virtuelles",
+      "status": 1,
+      "lastTiming": {
+        "begin": "2021-11-13T11:00:00+01:00",
+        "end": "2021-11-13T18:00:00+01:00"
+      },
+      "nextTiming": {
+        "begin": "2021-11-09T14:00:00+01:00",
+        "end": "2021-11-09T19:00:00+01:00"
+      }
+    },
+    {
+      "image": {
+        "originalName": null,
+        "extension": null,
+        "filename": "c477545e3e234e02b8e204458532c5bf.base.image.jpg",
+        "size": {
+          "width": 700,
+          "height": 467
+        },
+        "variants": [
+          {
+            "filename": "c477545e3e234e02b8e204458532c5bf.full.image.jpg",
+            "size": {
+              "width": 5568,
+              "height": 3712
+            },
+            "type": "full"
+          },
+          {
+            "filename": "c477545e3e234e02b8e204458532c5bf.thumb.image.jpg",
+            "size": {
+              "width": 200,
+              "height": 200
+            },
+            "type": "thumbnail"
+          }
+        ],
+        "base": "https://cibul.s3.amazonaws.com/"
+      },
+      "featured": false,
+      "attendanceMode": 1,
+      "keywords": {
+        "fr": [
+          "renovation energetique",
+          "FAIRE",
+          "permanence",
+          "renovation maison",
+          "renovation immeuble"
+        ]
+      },
+      "dateRange": {
+        "ar": "الثلاثاء ٩ نوفمبر, 09:00, 14:00",
+        "de": "Dienstag 9 November, 09:00, 14:00",
+        "en": "Tuesday 9 November, 09:00, 14:00",
+        "fr": "Mardi 9 novembre, 09h00, 14h00",
+        "es": "Tuesday 9 November, 09:00, 14:00"
+      },
+      "originAgenda": {
+        "uid": 61081122,
+        "image": "agenda61081122.jpg?__ts=1605886360865",
+        "title": "GPSO Energie - Agence Locale de l'Energie et du Climat"
+      },
+      "title": {
+        "fr": "GPSO Energie - Permanences de l'Espace Conseil FAIRE à Boulogne-Billancourt"
+      },
+      "onlineAccessLink": null,
+      "uid": 62739620,
+      "location": {
+        "address": "26 Avenue André Morizet, 92100 Boulogne-Billancourt",
+        "latitude": 48.835737,
+        "name": "Hôtel de Ville Boulogne-Billancourt",
+        "longitude": 2.240341
+      },
+      "slug": "gpso-energie-permanences-de-lespace-conseil-faire-a-boulogne-billancourt-3497356",
+      "status": 1,
+      "lastTiming": {
+        "begin": "2021-11-09T14:00:00+01:00",
+        "end": "2021-11-09T18:00:00+01:00"
+      },
+      "nextTiming": {
+        "begin": "2021-11-09T09:00:00+01:00",
+        "end": "2021-11-09T13:00:00+01:00"
+      }
+    },
+    {
+      "image": {
+        "filename": "b53d50b466454361a82277282368934f.base.image.jpg",
+        "size": {
+          "width": 700,
+          "height": 366
+        },
+        "variants": [
+          {
+            "filename": "b53d50b466454361a82277282368934f.full.image.jpg",
+            "size": {
+              "width": 1920,
+              "height": 1005
+            },
+            "type": "full"
+          },
+          {
+            "filename": "b53d50b466454361a82277282368934f.thumb.image.jpg",
+            "size": {
+              "width": 200,
+              "height": 200
+            },
+            "type": "thumbnail"
+          }
+        ],
+        "base": "https://cibul.s3.amazonaws.com/"
+      },
+      "featured": false,
+      "attendanceMode": 1,
+      "keywords": {},
+      "dateRange": {
+        "ar": "١ - ٢٩ نوفمبر",
+        "de": "1 - 29 November",
+        "en": "1 - 29 November",
+        "fr": "1 - 29 novembre",
+        "es": "1 - 29 November"
+      },
+      "originAgenda": {
+        "uid": 56982281,
+        "image": "agenda56982281.jpg",
+        "title": "Unidivers, votre Agenda partout en France"
+      },
+      "title": {
+        "fr": "Exposition \"VOYEUR\". Dessins de Florent Geraud"
+      },
+      "onlineAccessLink": null,
+      "uid": 60092241,
+      "location": {
+        "address": "63 rue Beaubourg, 75003 Paris",
+        "latitude": 48.863072,
+        "name": "Centre lgbtqi+ Paris IdF",
+        "longitude": 2.354337
+      },
+      "slug": "exposition-voyeur-dessins-de-florent-geraud",
+      "status": 1,
+      "lastTiming": {
+        "begin": "2021-11-29T15:00:00+01:00",
+        "end": "2021-11-29T20:00:00+01:00"
+      },
+      "nextTiming": {
+        "begin": "2021-11-09T15:00:00+01:00",
+        "end": "2021-11-09T20:00:00+01:00"
+      }
+    },
+    {
+      "image": {
+        "filename": "e14ee9cdff93461d99f8c4cdde4c8d2d.base.image.jpg",
+        "size": {
+          "width": 700,
+          "height": 350
+        },
+        "variants": [
+          {
+            "filename": "e14ee9cdff93461d99f8c4cdde4c8d2d.full.image.jpg",
+            "size": {
+              "width": 1024,
+              "height": 512
+            },
+            "type": "full"
+          },
+          {
+            "filename": "e14ee9cdff93461d99f8c4cdde4c8d2d.thumb.image.jpg",
+            "size": {
+              "width": 200,
+              "height": 200
+            },
+            "type": "thumbnail"
+          }
+        ],
+        "base": "https://cibul.s3.amazonaws.com/"
+      },
+      "featured": false,
+      "attendanceMode": 1,
+      "keywords": {
+        "en": [
+          "CTC",
+          "EV",
+          "Microgenomics",
+          "biopsies",
+          "cancer",
+          "technology",
+          "biomarkers"
+        ]
+      },
+      "dateRange": {
+        "ar": "الثلاثاء ٩ نوفمبر, 15:30",
+        "de": "Dienstag 9 November, 15:30",
+        "en": "Tuesday 9 November, 15:30",
+        "fr": "Mardi 9 novembre, 15h30",
+        "es": "Tuesday 9 November, 15:30"
+      },
+      "imageCredits": "INRAE",
+      "originAgenda": {
+        "uid": 86184123,
+        "image": "agenda86184123.jpg",
+        "title": "Université Paris-Saclay"
+      },
+      "title": {
+        "en": "Microgenomics 2021 Webinar Series: Circulating Biomarkers & Extracellular Vesicles"
+      },
+      "onlineAccessLink": null,
+      "uid": 74501773,
+      "location": {
+        "address": "Domaine de Vilvert, 78350 Jouy-en-Josas",
+        "latitude": 48.764058,
+        "name": "INRAE",
+        "longitude": 2.182819
+      },
+      "slug": "microgenomics-2021-webinar-series-circulating-biomarkers-and-extracellular-vesicles-7106926",
+      "status": 1,
+      "lastTiming": {
+        "begin": "2021-11-09T15:30:00+01:00",
+        "end": "2021-11-09T17:30:00+01:00"
+      },
+      "nextTiming": {
+        "begin": "2021-11-09T15:30:00+01:00",
+        "end": "2021-11-09T17:30:00+01:00"
+      }
+    },
+    {
+      "image": {
+        "filename": "bda9d188676149fa933df11aea081517.base.image.jpg",
+        "size": {
+          "width": 700,
+          "height": 428
+        },
+        "variants": [
+          {
+            "filename": "bda9d188676149fa933df11aea081517.full.image.jpg",
+            "size": {
+              "width": 327,
+              "height": 200
+            },
+            "type": "full"
+          },
+          {
+            "filename": "bda9d188676149fa933df11aea081517.thumb.image.jpg",
+            "size": {
+              "width": 200,
+              "height": 200
+            },
+            "type": "thumbnail"
+          }
+        ],
+        "base": "https://cibul.s3.amazonaws.com/"
+      },
+      "featured": false,
+      "attendanceMode": 1,
+      "keywords": {},
+      "dateRange": {
+        "ar": "٩ و ١٦ نوفمبر ",
+        "de": "9 und 16 November",
+        "en": "9 and 16 November",
+        "fr": "9 et 16 novembre",
+        "es": "9 and 16 November"
+      },
+      "originAgenda": {
+        "uid": 86184123,
+        "image": "agenda86184123.jpg",
+        "title": "Université Paris-Saclay"
+      },
+      "title": {
+        "fr": "Initiation à histoire de l'art"
+      },
+      "onlineAccessLink": null,
+      "uid": 3778888,
+      "location": {
+        "address": "1 allée de l'Astronomie - Guyancourt",
+        "latitude": 48.778799,
+        "name": "Université de Versailles Saint-Quentin-en-Yvelines - Maison de l'étudiant Martan Pan",
+        "longitude": 2.045543
+      },
+      "slug": "initiation-a-histoire-de-lart",
+      "status": 1,
+      "lastTiming": {
+        "begin": "2021-11-16T17:30:00+01:00",
+        "end": "2021-11-16T19:30:00+01:00"
+      },
+      "nextTiming": {
+        "begin": "2021-11-09T17:30:00+01:00",
+        "end": "2021-11-09T19:30:00+01:00"
+      }
+    },
+    {
+      "image": {
+        "filename": "1210865070954d7d89ff6ec456cf1b47.base.image.jpg",
+        "size": {
+          "width": 700,
+          "height": 525
+        },
+        "variants": [
+          {
+            "filename": "1210865070954d7d89ff6ec456cf1b47.full.image.jpg",
+            "size": {
+              "width": 1024,
+              "height": 768
+            },
+            "type": "full"
+          },
+          {
+            "filename": "1210865070954d7d89ff6ec456cf1b47.thumb.image.jpg",
+            "size": {
+              "width": 200,
+              "height": 200
+            },
+            "type": "thumbnail"
+          }
+        ],
+        "base": "https://cibul.s3.amazonaws.com/"
+      },
+      "featured": false,
+      "attendanceMode": 1,
+      "keywords": {},
+      "dateRange": {
+        "ar": "الثلاثاء ٩ نوفمبر, 17:30",
+        "de": "Dienstag 9 November, 17:30",
+        "en": "Tuesday 9 November, 17:30",
+        "fr": "Mardi 9 novembre, 17h30",
+        "es": "Tuesday 9 November, 17:30"
+      },
+      "imageCredits": "FUB",
+      "originAgenda": {
+        "uid": 16904082,
+        "image": "agenda16904082.jpg?__ts=1610446044767",
+        "title": "Mieux se Déplacer à Bicyclette"
+      },
+      "title": {
+        "fr": "Cyclistes Brillez"
+      },
+      "onlineAccessLink": null,
+      "uid": 95884141,
+      "location": {
+        "address": "7 boulevard de Sébastopol, Paris",
+        "latitude": 48.858359,
+        "name": "7 boulevard de Sébastopol",
+        "longitude": 2.347911
+      },
+      "slug": "cyclistes-brillez",
+      "status": 1,
+      "lastTiming": {
+        "begin": "2021-11-09T17:30:00+01:00",
+        "end": "2021-11-09T19:30:00+01:00"
+      },
+      "nextTiming": {
+        "begin": "2021-11-09T17:30:00+01:00",
+        "end": "2021-11-09T19:30:00+01:00"
+      }
+    },
+    {
+      "image": {
+        "filename": "c5660c3ccfc54675b3e7d41b9f1663fa.base.image.jpg",
+        "size": {
+          "width": 700,
+          "height": 990
+        },
+        "variants": [
+          {
+            "filename": "c5660c3ccfc54675b3e7d41b9f1663fa.full.image.jpg",
+            "size": {
+              "width": 2481,
+              "height": 3508
+            },
+            "type": "full"
+          },
+          {
+            "filename": "c5660c3ccfc54675b3e7d41b9f1663fa.thumb.image.jpg",
+            "size": {
+              "width": 200,
+              "height": 200
+            },
+            "type": "thumbnail"
+          }
+        ],
+        "base": "https://cibul.s3.amazonaws.com/"
+      },
+      "featured": false,
+      "attendanceMode": 1,
+      "keywords": {},
+      "dateRange": {
+        "ar": "الثلاثاء ٩ نوفمبر, 17:30",
+        "de": "Dienstag 9 November, 17:30",
+        "en": "Tuesday 9 November, 17:30",
+        "fr": "Mardi 9 novembre, 17h30",
+        "es": "Tuesday 9 November, 17:30"
+      },
+      "imageCredits": "PICS",
+      "originAgenda": {
+        "uid": 94061436,
+        "image": "agenda94061436.jpg",
+        "title": "CentraleSupélec"
+      },
+      "title": {
+        "fr": "L'association Symposium reçoit Delphine Ernotte"
+      },
+      "onlineAccessLink": null,
+      "uid": 73145517,
+      "location": {
+        "address": "8 rue Joliot Curie 91190 Gif-sur-Yvette",
+        "latitude": 48.709746,
+        "name": "CentraleSupélec, bâtiment Eiffel, amphi Michelin",
+        "longitude": 2.162895
+      },
+      "slug": "lassociation-symposium-recoit-delphine-ernotte",
+      "status": 1,
+      "lastTiming": {
+        "begin": "2021-11-09T17:30:00+01:00",
+        "end": "2021-11-09T18:00:00+01:00"
+      },
+      "nextTiming": {
+        "begin": "2021-11-09T17:30:00+01:00",
+        "end": "2021-11-09T18:00:00+01:00"
+      }
+    }
+  ]
+}

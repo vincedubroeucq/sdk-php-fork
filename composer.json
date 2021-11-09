@@ -1,0 +1,39 @@
+{
+  "name": "openagenda/sdk-php",
+  "type": "library",
+  "description": "PHP Wrapper for the OpenAgenda API",
+  "keywords": [
+    "openagenda",
+    "api",
+    "sdk",
+    "php"
+  ],
+  "minimum-stability": "stable",
+  "homepage": "https://openagenda.com/",
+  "license": "GNU",
+  "authors": [
+    {
+      "name": "Hermann Sorais",
+      "email": "hermannsorais@gmail.com",
+      "homepage": "https://github.com/hermannsorais"
+    }
+  ],
+  "require": {
+    "php": "^7.1.10 || ^8.0",
+    "guzzlehttp/guzzle": ">=6.5",
+    "dallgoot/yaml": "^0.3.2"
+  },
+  "require-dev": {
+    "phpunit/phpunit": ">=7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "OpenAgendaSdk\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "OpenAgendaSdkTests\\": "tests/"
+    }
+  }
+}
