@@ -10,7 +10,7 @@
   ],
   "minimum-stability": "stable",
   "homepage": "https://openagenda.com/",
-  "license": "GNU",
+  "license": "MIT",
   "authors": [
     {
       "name": "Hermann Sorais",
