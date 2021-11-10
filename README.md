@@ -4,7 +4,7 @@
 OpenAgendaSDK is a PHP wrapper for OpenAgenda API v2.
  
 ## Prerequisites
-Composer is required as well as a PHP 7.2.5 or higher version running on your web server.
+Composer is required as well as a PHP 7.1 or higher version running on your web server.
 Composer installation instructions can be found at https://getcomposer.org/doc/00-intro.md#installation-linux-unix-macos.
 
 ## Installation
