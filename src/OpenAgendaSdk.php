@@ -68,7 +68,7 @@ class OpenAgendaSdk
      */
     public function getEvents(int $agendaUid, ?array $params = []): string
     {
-        $content = $this->client->request(Endpoints::EVENTS, ['agendaUid' => $agendaUid], $params);
+        $content = $this->client->request(Endpoints::EVENTS, ['agendaUid' => $agendaUid], $params + ['includeLabels' => 1, 'detailed' => 1]);
 
         return $content;
     }
@@ -86,7 +86,7 @@ class OpenAgendaSdk
      */
     public function getEvent(int $agendaUid, int $eventUid): string
     {
-        $content = $this->client->request(Endpoints::EVENT, ['agendaUid' => $agendaUid, 'eventUid' => $eventUid]);
+        $content = $this->client->request(Endpoints::EVENT, ['agendaUid' => $agendaUid, 'eventUid' => $eventUid, 'includeLabels' => 1], ['includeLabels' => 1, 'detailed' => 1]);
 
         return $content;
     }
