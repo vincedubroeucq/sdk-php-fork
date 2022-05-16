@@ -11,9 +11,13 @@ namespace OpenAgendaSdk;
 final class Endpoints
 {
     /**
-     * agenda: Get an agenda configuration.
+     * My agendas: Get my agendas linked to public key.
      */
-    public const AGENDA = 'agenda';
+    public const MY_AGENDAS = 'my_agendas';
+    /**
+     * My agendas: Get my agendas linked to public key.
+     */
+    public const AGENDAS = 'agendas';
 
     /**
      * events: Get the list of an agenda events.
