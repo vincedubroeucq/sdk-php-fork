@@ -44,9 +44,7 @@ class OpenAgendaSdk
   /**
    * @return HttpClient
    *   The Http client.
-   *
    * @throws \Exception
-   *
    */
   public function getClient(): HttpClient
   {
@@ -56,16 +54,14 @@ class OpenAgendaSdk
   /**
    * @return string
    *
-   * @throws \Exception
-   *
    * @link https://developers.openagenda.com/configuration-dun-agenda/
    */
   public function getMyAgendas(): string
   {
     try {
       $content = $this->getClient()->request(Endpoints::MY_AGENDAS);
-    } catch (OpenAgendaSdkException $e) {
-      return json_encode(['error' => $e->getMessage()]);
+    } catch (\Throwable $e) {
+      return \json_encode(['error' => $e->getMessage()]);
     }
 
     return $content;
@@ -75,14 +71,12 @@ class OpenAgendaSdk
    * @return array
    *   An array of agenda Uids.
    *
-   * @throws \Exception
-   *
    * @link https://developers.openagenda.com/lister-ses-agendas/
    */
   public function getMyAgendasUids(): array
   {
-    $agendas = json_decode($this->getMyAgendas());
-    if (!array_key_exists('items', $agendas)) {
+    $agendas = \json_decode($this->getMyAgendas());
+    if (!\array_key_exists('items', $agendas)) {
       return [];
     }
 
@@ -100,14 +94,12 @@ class OpenAgendaSdk
    *
    * @return bool
    *   TRUE if agenda exists or FALSE otherwise.
-   *
-   * @throws \Exception
    */
   public function hasPermission(int $agendaUid): bool
   {
       $agendaUids = $this->getMyAgendasUids($agendaUid);
 
-      return in_array($agendaUid, $agendaUids);
+      return \in_array($agendaUid, $agendaUids);
   }
 
   /**
@@ -117,16 +109,14 @@ class OpenAgendaSdk
    * @return string
    *   Response body as json.
    *
-   * * @throws \Exception
-   *
    * @link https://developers.openagenda.com/configuration-dun-agenda/
    */
   public function getAgenda(int $agendaUid): string
   {
     try {
       $content = $this->getClient()->request(Endpoints::AGENDAS, ['agendaUid' => $agendaUid]);
-    } catch (OpenAgendaSdkException $e) {
-      return json_encode(['error' => $e->getMessage()]);
+    } catch (\Throwable $e) {
+      return \json_encode(['error' => $e->getMessage()]);
     }
 
     return $content;
@@ -138,8 +128,6 @@ class OpenAgendaSdk
    *
    * @return array
    *
-   * @throws \Exception
-   *
    * @link https://developers.openagenda.com/lister-ses-agendas/
    */
   public function getAgendaAdditionalFields(int $agendaUid): array
@@ -148,7 +136,7 @@ class OpenAgendaSdk
       return [];
     }
 
-    $agenda = json_decode($this->getAgenda($agendaUid));
+    $agenda = \json_decode($this->getAgenda($agendaUid));
 
     if ($agenda->error) {
       return [];
@@ -172,15 +160,13 @@ class OpenAgendaSdk
    *
    * @return string
    *   Response body as json.
-   *
-   * @throws \Exception
    */
   public function getEvents(int $agendaUid, ?array $params = []): string
   {
     try {
       $content = $this->getClient()->request(Endpoints::EVENTS, ['agendaUid' => $agendaUid], $params + ['includeLabels' => 1, 'detailed' => 1]);
-    } catch (OpenAgendaSdkException $e) {
-      return json_encode(['error' => $e->getMessage()]);
+    } catch (\Throwable $e) {
+      return \json_encode(['error' => $e->getMessage()]);
     }
 
     return $content;
@@ -195,16 +181,14 @@ class OpenAgendaSdk
    * @return string
    *   Response body as json.
    *
-   * @throws \Exception
-   *
    * @link https://developers.openagenda.com/10-lecture/#lire-un-v-nement
    */
   public function getEvent(int $agendaUid, int $eventUid): string
   {
     try {
       $content = $this->getClient()->request(Endpoints::EVENT, ['agendaUid' => $agendaUid, 'eventUid' => $eventUid, 'includeLabels' => 1], ['includeLabels' => 1, 'detailed' => 1]);
-    } catch (OpenAgendaSdkException $e) {
-      return json_encode(['error' => $e->getMessage()]);
+    } catch (\Throwable $e) {
+      return \json_encode(['error' => $e->getMessage()]);
     }
 
     return $content;
